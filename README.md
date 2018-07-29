@@ -1,2 +1,3 @@
-# PS-WechatRedpack
-SI140 (Probabilities and Statistics) Course Project - Wechat Redpack Mechanism Analysis
+## Wechat Redpack Mechanism Analysis
+- Type: [SI140] Probabilities and Statistics Course Project
+- 
